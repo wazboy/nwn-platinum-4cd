@@ -1,0 +1,28 @@
+# CD Files
+Data_Linux.zip
+Data_Shared.zip
+EULA.txt
+nwn.ico
+Language_data.zip
+Language_update.zip
+disk2.zip
+disk3.zip
+disk4.zip
+language_data.zip
+xp1.zip
+xp1_data.zip
+
+# Downloaded files
+nwclientgold.tar.gz
+nwclienthotu.tar.gz
+English_linuxclient169_xp2.tar.gz
+nwlinux-beta.tar.bz2
+cursors.tar.gz
+nwmovies-latest.tar.gz
+
+# Generated package
+nwn-platinum-4cd-*.pkg.tar
+
+# makepkg directories
+pkg/
+src/
